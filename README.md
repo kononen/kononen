@@ -28,7 +28,7 @@ I enjoy tackling complex problems involving **time series forecasting, anomaly d
 - Designed and deployed **end-to-end ML pipelines** using sklearn, PyTorch, CatBoost, and Darts.
 - Applied **SHAP** for model interpretation and business insights.
 - Built **FastAPI/Pydantic REST APIs** for automatic model inference, logging, and status tracking with PostgreSQL.
-- Developed reusable modules for **time series forecasting, imputation, and anomaly detection**.
+- Developed modules for **time series forecasting, imputation, and anomaly detection**.
 - Combined multiple methods (ARIMA, Kalman filters, STL, TBATS, Auto-ML, and LLMs for time series) to improve detection quality and speed.
 - Performed **geospatial data analysis with GeoPandas**.
 
